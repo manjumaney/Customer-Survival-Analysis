@@ -41,14 +41,8 @@ The solution involves several steps:
 ## Repository Structure
 
 - **Data:** Telco-Customer-Churn.csv is the dataset used for analysis and modeling. 
-- **Notebooks:** AIDI_1002_Final_Project_Template.ipynb contain the EDA, model development, and evaluation. Python scripts are used for data preprocessing, model training, and evaluation. Contains results, visualizations, and model performance metrics. Documentation and additional resources.
+- **Notebook:** AIDI_1002_Final_Project_Template.ipynb contain the EDA, model development, and evaluation. Python scripts are used for data preprocessing, model training, and evaluation. Contains results, visualizations, and model performance metrics. Documentation and additional resources.
 
-## How to Run
-
-1. Clone the repository: `git clone https://github.com/manjumaney/Customer-Survival-Analysis.git`
-2. Navigate to the project directory: `cd Customer-Survival-Analysis`
-3. Install required dependencies: `pip install -r requirements.txt`
-4. Run the Jupyter notebooks in the `Notebooks` directory to explore the EDA and model development.
 
 ## Contributions
 
